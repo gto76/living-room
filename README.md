@@ -1,4 +1,4 @@
-living-room
+Living Room
 ===========
 
 Blender project
